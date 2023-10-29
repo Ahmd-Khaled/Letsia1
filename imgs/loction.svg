@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="355" height="386" viewBox="0 0 355 386">
+  <defs>
+    <filter id="Rectangle_14" x="0" y="0" width="355" height="386" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="40" result="blur"/>
+      <feFlood flood-color="#a19d9d" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="loction" transform="translate(119.999 117.325)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M19.5,0,39,34H0Z" transform="translate(143 54.675) rotate(90)" fill="#ff6547"/>
+    <g transform="matrix(1, 0, 0, 1, -120, -117.33)" filter="url(#Rectangle_14)">
+      <path id="Rectangle_14-2" data-name="Rectangle 14" d="M40,0h75a0,0,0,0,1,0,0V146a0,0,0,0,1,0,0H40A40,40,0,0,1,0,106V40A40,40,0,0,1,40,0Z" transform="translate(120 117)" fill="#ff6547"/>
+    </g>
+    <g id="Icon_feather-map-pin" data-name="Icon feather-map-pin" transform="translate(35.101 45.537)">
+      <path id="Path_3605" data-name="Path 3605" d="M49.174,23.837C49.174,41.21,26.837,56.1,26.837,56.1S4.5,41.21,4.5,23.837a22.337,22.337,0,0,1,44.674,0Z" transform="translate(-4.5 -1.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_3606" data-name="Path 3606" d="M28.391,17.946A7.446,7.446,0,1,1,20.946,10.5a7.446,7.446,0,0,1,7.446,7.446Z" transform="translate(1.391 4.391)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

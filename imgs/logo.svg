@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="377.381" height="77.625" viewBox="0 0 377.381 77.625">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.35" x2="0.5" y2="0.083" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff4c00"/>
+      <stop offset="1" stop-color="#ff6547"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1.35" x2="0.5" y2="0.082" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1.35" x2="0.5" y2="0.083" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.176" y1="0.91" x2="0.934" y2="-0.075" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.3" stop-color="#fcfdff"/>
+      <stop offset="0.53" stop-color="#f2f7ff"/>
+      <stop offset="0.74" stop-color="#e2ecff"/>
+      <stop offset="0.93" stop-color="#cbddff"/>
+      <stop offset="1" stop-color="#c1d7ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffae00"/>
+      <stop offset="1" stop-color="#ff6547"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="1.108" y1="-0.128" x2="0.32" y2="0.681" gradientUnits="objectBoundingBox">
+      <stop offset="0.19" stop-color="#c1d7ff"/>
+      <stop offset="0.2" stop-color="#c4d9ff"/>
+      <stop offset="0.26" stop-color="#dae7ff"/>
+      <stop offset="0.33" stop-color="#ebf2ff"/>
+      <stop offset="0.43" stop-color="#f6f9ff"/>
+      <stop offset="0.56" stop-color="#fdfeff"/>
+      <stop offset="0.91" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="logo" transform="translate(0.022 0.025)">
+    <text id="Letsia" transform="translate(95.75 59.761)" fill="#ffae00" font-size="37" font-family="VIP Rawy" font-weight="700"><tspan x="0" y="0">Letsia</tspan></text>
+    <text id="Marketing" transform="translate(207.359 61.525)" fill="#fff" font-size="37" font-family="VIP Rawy" font-weight="700"><tspan x="0" y="0">Marketing</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M17.837,51.42,16.25,53V67.5h10.2V60.036Z" transform="translate(-1.922 -6.078)" fill="url(#linear-gradient)"/>
+    <path id="Path_2" data-name="Path 2" d="M33.49,62.634v8.96h10.2V52.44Z" transform="translate(-3.959 -6.198)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_3" data-name="Path 3" d="M56.6,40.1,50.73,45.973V66.468h10.2V44.43Z" transform="translate(-5.996 -4.74)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_4" data-name="Path 4" d="M7.622,50.438,3.53,46.346l12.8-12.8L28.69,45.914,49.7,24.89,53.8,28.982,28.69,54.089,16.335,41.734Z" transform="translate(-0.42 -2.943)" fill="url(#linear-gradient-4)"/>
+    <path id="Path_5" data-name="Path 5" d="M98.639,258.635a34.446,34.446,0,1,0-11,11.006l11.676,11.685a7.8,7.8,0,0,0,11.006,0h0a7.778,7.778,0,0,0,0-11.006Zm-28.7,9.63a27.84,27.84,0,1,1,27.338-27.338A27.84,27.84,0,0,1,69.934,268.265Z" transform="translate(-34.98 -206)" fill="url(#linear-gradient-5)"/>
+    <path id="Path_6" data-name="Path 6" d="M46.35,20.967,61.739,36.356,66.686,16.02Z" transform="translate(-5.478 -1.896)" fill="url(#linear-gradient-6)"/>
+  </g>
+</svg>

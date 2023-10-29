@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="355" height="386" viewBox="0 0 355 386">
+  <defs>
+    <filter id="Rectangle_14" x="0" y="0" width="355" height="386" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="40" result="blur"/>
+      <feFlood flood-color="#a19d9d" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="mail" transform="translate(120.381 117.325)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M19.5,0,39,35H0Z" transform="translate(143.618 55.675) rotate(90)" fill="#08f"/>
+    <g transform="matrix(1, 0, 0, 1, -120.38, -117.33)" filter="url(#Rectangle_14)">
+      <path id="Rectangle_14-2" data-name="Rectangle 14" d="M40,0h75a0,0,0,0,1,0,0V146a0,0,0,0,1,0,0H40A40,40,0,0,1,0,106V40A40,40,0,0,1,40,0Z" transform="translate(120 117)" fill="#08f"/>
+    </g>
+    <g id="Icon_feather-mail" data-name="Icon feather-mail" transform="translate(37.833 56.749)">
+      <path id="Path_3607" data-name="Path 3607" d="M4.087,0h32.7a4.1,4.1,0,0,1,4.087,4.087V28.612A4.1,4.1,0,0,1,36.787,32.7H4.087A4.1,4.1,0,0,1,0,28.612V4.087A4.1,4.1,0,0,1,4.087,0Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_3608" data-name="Path 3608" d="M40.874,0,20.437,14.306,0,0" transform="translate(0 4.087)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
